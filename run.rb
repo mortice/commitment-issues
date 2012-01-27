@@ -1,5 +1,4 @@
-# --2500--
-
+# --0--
 count = 0
 while count < ARGV[0].to_i
   script = open('run.rb', 'r+')
